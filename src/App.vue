@@ -5,7 +5,7 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue';
-import './assets/tailwind.css';
+// import './assets/tailwind.css'; //don't need to import, vue puts in main.js auto-magically
 
 export default {
   name: 'App',
